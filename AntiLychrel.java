@@ -1,4 +1,5 @@
-//Program to check if the number is Anti-Lychrel Number or not
+//An anti-Lychrel number is a number that forms a palindrome through the iterative process of repeatedly reversing its digits and adding the resulting numbers. 
+//For example, 56 becomes palindromic after one iteration: 56+65=121. If the number doesn't become palindromic after 30 iterations, then it is not an anti-Lychrel number.
 import Xero.X;
 import java.util.*;
 public class AntiLychrel
