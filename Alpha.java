@@ -1,3 +1,5 @@
+/* Program to check if a character is an alphabet or not
+*/
 import java.util.*;
 public class Alpha
 {
