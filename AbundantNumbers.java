@@ -1,3 +1,9 @@
+/*If the sum of factors of a number is greater than twice that number, it is considered to be abundant
+For example:
+12 is an abundant number.
+factors of 12 are 1,2,3,4,6,12 
+sum is 1+2+3+4+6+12=28>2*12
+*/
 import java.util.*;
 public class AbundantNumbers{
 	public static void main(String[] args){
