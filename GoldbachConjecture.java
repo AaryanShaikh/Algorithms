@@ -1,3 +1,9 @@
+/*Goldbach's conjecture is a rule in math that states the following: every even number greater than 2 can be expressed as the sum of two prime numbers.
+Input: 16
+Output:
+3 + 13
+5 + 11
+*/
 import java.util.*;
 import Aaryan.X;
 public class GoldbachConjecture{
