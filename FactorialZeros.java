@@ -1,4 +1,6 @@
-//Program to test Factorial Zeros
+/*The factorial of a non-negative integer n, denoted by n! is the product of all positive integers less than or equal to n.
+Input: 5
+Output: 1 (5! = 120 has one trailing zero)*/
 import Aaryan.X;
 import java.util.*;
 class FactorialZeros
