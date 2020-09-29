@@ -1,5 +1,6 @@
+/* To check if the element is repeated in the array*/
 import java.util.*;
-class DuplicateElement
+public class DuplicateElement
 {
 	public static void main(String[] args)
 	{
