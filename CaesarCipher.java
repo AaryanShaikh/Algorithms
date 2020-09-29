@@ -1,4 +1,6 @@
-//Program to encript the data using Caesar Cipher
+/*The Caesar cipher is a type of substitution cipher in which each letter in the plaintext is shifted to a certain number of places down the alphabet. 
+For example, with a shift of 1, A would be replaced by B, B would become C, and so on. The method is named after Julius Caesar, who allegedly used it to communicate 
+with his generals.*/
 import java.util.*;
 public class CaesarCipher
 {
