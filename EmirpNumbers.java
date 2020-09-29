@@ -1,4 +1,7 @@
-//Program to test Emirp Numbers
+/*An emirp is a prime number that results in a different prime when its decimal digits are reversed.
+For example:
+Input: 17
+Output: true (17 and 71 are prime numbers)*/
 import Aaryan.X;
 import java.util.*;
 class EmirpNumbers
