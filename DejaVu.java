@@ -1,3 +1,9 @@
+/*You aren't paying attention and you accidentally type a bunch of random letters on your keyboard. You want to know if you ever typed the same letter twice, or if they
+are all unique letters.
+Sample Input: 
+aaaaaaaghhhhjkll
+Sample Output: 
+Deja Vu*/
 import java.util.Scanner;
 public class DejaVu{
 	public static void main(String[] args) {
