@@ -1,4 +1,6 @@
-//Program to check if the number is Fisher Number or not
+/*A Fisher number is an integer whose multipliers are equal to the number's cube. For example, 12 is a Fisher number, because 12^3 = 2 x 3 x 4 x 6 x 12.
+Input: 12
+Output: true (12^3 = 2 x 3 x 4 x 6 x 12)*/
 import java.util.*;
 public class FisherNumber
 {
