@@ -1,5 +1,8 @@
-//Program to check if the number is Howling Prime or not
-import Xero.X;
+/*A howling prime is a prime number if the sum of its digits is also a prime number.
+Input:113
+Output: true (113 is a prime number, 1+1+3=5 is also a prime number)
+*/
+import Aaryan.X;
 import java.util.*;
 public class HowlingPrime
 {
