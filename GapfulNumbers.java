@@ -1,3 +1,6 @@
+/*A gapful number is a number of at least 3 digits that is divisible by the number formed by the first and last digit of the original number.
+Input: 192
+Output: true (192 is gapful because it is divisible 12)*/
 import java.util.*;
 public class GapfulNumbers{
 	public static void main(String[] args){
