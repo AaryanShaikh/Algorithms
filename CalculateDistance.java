@@ -4,6 +4,9 @@ Using these axes, we can describe any point in the plane using an ordered pair o
 Task:
 Write a program which takes two different points, A(x1,y1) and B(x2,y2), and returns the distance between these two points.
 The distance formula is the Pythagorean Theorem:
+For example:
+Input: (2, 2) (2, -4)
+Output: 6
 */
 import java.util.Scanner;
 import java.lang.Math;
