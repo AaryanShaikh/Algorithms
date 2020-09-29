@@ -1,3 +1,8 @@
+/*A number is considered deficient if the sum of its factors is less than twice that number
+For Example:
+10 is a deficient number.
+Factors of 10 are 1, 2, 5, 10
+Sum is 1 + 2 + 5 + 10 = 18 < 2 * 10*/
 import java.util.*;
 public class DeficientNumbers{
 	public static void main(String[] args){
