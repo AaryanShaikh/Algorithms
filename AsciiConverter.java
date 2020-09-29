@@ -1,3 +1,7 @@
+//ASCII abbreviated from American Standard Code for Information Interchange, is a character encoding standard for electronic communication.
+/*For example:
+Input: "abc"   
+Output: 97 98 99*/
 import java.util.*;
 public class AsciiConverter{
 	public static void main(String[] args){
