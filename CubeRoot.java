@@ -1,3 +1,7 @@
+/*A cube root of a number x is a number y such that y*y*y = x.
+For example:
+Input: 729
+Output: 9*/
 import java.util.*;
 public class CubeRoot{
 	public static void main(String[] args) {
