@@ -1,3 +1,4 @@
+/*complex number can be expressed as (a, b) or as a + bi. a is called the number's real part, and b is called its imaginary part. i is defined by i x i = -1.*/
 import java.util.*;
 public class ComplexNumberMul{
 	public static void main(String[] args){
