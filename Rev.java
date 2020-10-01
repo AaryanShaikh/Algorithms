@@ -1,3 +1,5 @@
+/* Write a program to reverse any given number
+*/
 import java.util.*;
 class Rev
 {
