@@ -1,3 +1,8 @@
+/* A Pythagorean Triple is a set of integers a, b and c such that a^2 + b^2 = c^2. For example, 3, 4 and 5 are Pythagorean triples because 3^2 + 4^2 = 5^2.
+Given a number n, find a Pythagorean Triple for a given sum.
+Input: 12
+Output: 3, 4, 5 (because 3^2 + 4^2 = 5^2, and 3 + 4 + 5 = 12)
+*/
 import java.util.*;
 public class PythagoreanTriples{
 	public static void main(String[] args) {
