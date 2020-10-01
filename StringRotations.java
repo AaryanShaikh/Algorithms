@@ -1,3 +1,9 @@
+/*Create a function that accepts a string argument and returns an array of strings, which are shifted versions of the argument string.
+Sample Input
+"Hello"
+Sample Output
+["elloH", "lloHe", "loHel", "oHell", "Hello"]
+*/
 import java.util.*;
 public class StringRotations
 {
