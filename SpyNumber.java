@@ -1,3 +1,8 @@
+/* A number is called a Spy number, if the sum and product of its digits are equal.
+For example, 123 is a Spy number, as the sum of its digits is 6 (1+2+3) which is equal to the product of its digits: 6 (1x2x3).
+Input: 1412
+Output: true
+*/
 import java.util.Scanner;
 public class SpyNumber{
 	public static void main(String[] args) {
