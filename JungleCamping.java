@@ -1,3 +1,10 @@
+/*You are given the noises made by different animals that you can hear in the dark, evaluate each noise to determine which animal it belongs to. Lions say 'Grr', Tigers 
+say 'Rawr', Snakes say 'Ssss', and Birds say 'Chirp'.
+Sample Input: 
+Rawr Chirp Ssss
+Sample Output: 
+Tiger Bird Snake
+*/
 import java.util.Scanner;
 public class JungleCamping{
 	public static void main(String[] args) {
