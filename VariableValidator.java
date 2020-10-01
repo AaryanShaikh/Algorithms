@@ -1,3 +1,12 @@
+/* Some conventions are the following:
+1. A valid variable name can contain only alphabetic characters (a-z, A-Z), digits (0-9) and underscores(_).
+2. It can't contain any special character (@, #, %, &, *, etc...) or any white space.
+3. A valid variable name never starts with any digit.
+4. A variable name can't be a keyword(depends on the language you are using).
+For example:
+Input: num1
+Output: Valid
+*/
 import java.util.*;
 public class VariableValidator{
 	public static void main(String[] args){
