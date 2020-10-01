@@ -1,3 +1,11 @@
+/*Given two strings as input, write a program to find which numbers from the first string are present in the second string. Print the result as a string containing the
+matched numbers in ascending order.
+For example:
+Input:
+"12, 13, 15, 19, 212, 556, 2146"
+"13, 44, 432, 12, 788, 246, 2146, 46"
+Output: "12, 13, 2146"
+*/
 import java.util.*;
 public class NeighborNumbers
 {
