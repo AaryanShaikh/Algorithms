@@ -1,3 +1,7 @@
+/*For example:
+string = "ab c  d e fgh i  j kl mn  opqr  stuvwxyz"
+result = "abcdefghijklmnopqrstuvwxyz"
+*/
 import java.util.*;
 public class RemoveSpaceFromString{
 	public static void main(String[] args){
