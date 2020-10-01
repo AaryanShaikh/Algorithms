@@ -1,4 +1,7 @@
-//Program to check if the number is Lab Number or not
+/*A lab number is a number such that the square of any of its prime divisors is still one of its divisors.
+Input: 8
+Output: true (2 is a prime divisor of 8, and 2x2=4 is also a divisor of 8)
+*/
 import Xero.X;
 import java.util.*;
 public class LabNumbers
