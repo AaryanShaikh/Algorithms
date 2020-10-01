@@ -1,3 +1,4 @@
+// Write a program to convert 12 hour format to 24 hour format
 import java.util.*;
 public class MilitaryTime{
 	public static void main(String[] args) {
