@@ -1,3 +1,5 @@
+/* Write a program to check if its a Prime number or not
+*/
 import java.util.*;
 public class Prime
 {
