@@ -1,3 +1,7 @@
+/* A number is considered to be ugly if its only prime factors are 2, 3 or 5. 
+
+[1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, …] is the sequence of ugly numbers.
+*/
 import java.util.*;
 public class UglyNumbers{
 	public static void main(String[] args){
