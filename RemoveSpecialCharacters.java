@@ -1,3 +1,5 @@
+/* Write a program to remove Special characters for a givern string
+*/
 import java.util.Scanner;
 public class RemoveSpecialCharacters{
 	public static void main(String[] args) {
