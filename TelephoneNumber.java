@@ -1,3 +1,9 @@
+/* Write a program that converts an integer input to a telephone number format.
+
+For example:
+Input: 1234567890
+Output: (123) 456-7890
+*/
 import java.util.*;
 public class TelephoneNumber{
 	public static void main(String[] args){
