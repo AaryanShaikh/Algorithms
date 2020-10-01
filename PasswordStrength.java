@@ -1,3 +1,5 @@
+/* Write a program to check the Strength of the password.
+*/
 import java.util.*;
 public class PasswordStrength{
 	public static void main(String[] args){
