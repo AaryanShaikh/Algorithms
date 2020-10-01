@@ -1,4 +1,8 @@
-//Program to check if the number is Trimorphic Number or not
+/*A trimorphic number is a number whose cube ends in the number itself. 
+For example:
+Input: 4
+Output: true (4^3 is 64, which ends in 4)
+*/
 import Xero.X;
 import java.util.*;
 class TrimorphicNumbers
