@@ -1,3 +1,4 @@
+// Write a program to check if its leap year or not
 import java.util.*;
 public class Leap
 {
