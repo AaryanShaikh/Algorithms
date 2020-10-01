@@ -1,3 +1,15 @@
+/*You want to take a list of numbers and find the sum of all of the even numbers in the list. Ignore any odd numbers.
+
+Task:
+Find the sum of all even integers in a list of numbers.
+
+Sample Input: 
+9 
+1 2 3 4 5 6 7 8 9
+
+Sample Output: 
+20
+*/
 import java.util.Scanner;
 public class ThatsOdd{
 	public static void main(String[] args) {
