@@ -1,4 +1,9 @@
-//Program to check if the matrix is Magic Square or not
+//A magic square is a square matrix of distinct numbers in which the sum of the numbers in each row, column and diagonal is equal. The sum is called the magic sum.
+//Input:
+//4 3 8
+//9 5 1
+//2 7 6
+//Output: 15
 import java.util.*;
 public class MagicSquare
 {
