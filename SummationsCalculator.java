@@ -1,3 +1,9 @@
+/*Create a program that takes 3 inputs, a lower bound, an upper bound and the expression. Calculate the sum of that range based on the given expression and output the result.
+
+For Example:
+Input: 2 4 *2
+Output: 18 (2*2 + 3*2 + 4*2)
+*/
 import java.util.Scanner;
 public class SummationsCalculator{
 	public static void main(String[] args) {
