@@ -1,3 +1,13 @@
+/*Write a program that takes a NxN square matrix as an input and rotates it clockwise by 90 degrees.
+Input:
+1  2  3
+4  5  6
+7  8  9
+Output:
+7  4  1
+8  5  2
+9  6  3
+*/
 import java.util.*;
 public class RotateTheMatrix{
 	public static void main(String[] args){
