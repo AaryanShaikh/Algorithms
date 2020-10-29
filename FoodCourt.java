@@ -1,5 +1,7 @@
-/*A food court facilitates their customers with a featured App where the customers can view the Menu Card and place their order. The order may be delivered on-premises or off-premises as per policies. Write a code to take the order from the customer by pressing menu number. Quantity 
-After one customer completes the process of placing the order by pressing the Menu Number and Quantity, your code should accept y to continue taking order or n for stopping the process of order taking. Final Output should be the calculated total amount. Menu card is given as: 
+/*A food court facilitates their customers with a featured App where the customers can view the Menu Card and place their order. The order may be delivered on-premises or 
+off-premises as per policies. Write a code to take the order from the customer by pressing menu number. Quantity .After one customer completes the process of placing the order
+by pressing the Menu Number and Quantity, your code should accept y to continue taking order or n for stopping the process of order taking. Final Output should be the 
+calculated total amount. Menu card is given as: 
 Number Name Price
 1 Veg Sandwich 80.0 
 2 Cheese Sandwich 130.0 
