@@ -14,16 +14,11 @@ public class skeeBall{
 		Scanner in = new Scanner(System.in);
 		int pts=in.nextInt();
 		int cost=in.nextInt();
-		float res=pts/12;
-		res = Math.round(res);
-		if (res<40) {
-			System.out.println("Try again");
-		}
-		else if (res==40) {
+		if (pts/12>=cost) {
 			System.out.println("Buy it!");
 		}
 		else{
-			System.out.println("Buy it!");
+			System.out.println("Try again");
 		}
 	}
 }
