@@ -5,6 +5,7 @@ output: true (18 is a hardshad number because it is divisible by the sum of its 
 input: 1729
 output: true (1729 is a hardshad number because it is divisible by the sum of its digits: 1729 = 
 (1+7+2+9)* 91)
+(hard)-> print the hardshad numbers in a range
 */
 import java.util.*;
 public class HarshadNumber{
